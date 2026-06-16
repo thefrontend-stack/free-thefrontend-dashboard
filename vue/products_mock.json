@@ -1,0 +1,41 @@
+[
+    {
+        "id": 101,
+        "name": "Logitech MX Master 3S",
+        "sku": "PER-LOG-MX3",
+        "category": "Peripherals",
+        "price": 99.99,
+        "cost": 45,
+        "stock": 42,
+        "sold": 128,
+        "returned": 2,
+        "status": "Active",
+        "image": "https:\/\/images.unsplash.com\/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=256&h=256&q=80"
+    },
+    {
+        "id": 102,
+        "name": "Mechanical Keyboard Keychron K2",
+        "sku": "PER-KEY-K2",
+        "category": "Peripherals",
+        "price": 79.5,
+        "cost": 35,
+        "stock": 0,
+        "sold": 340,
+        "returned": 15,
+        "status": "Active",
+        "image": "https:\/\/images.unsplash.com\/photo-1595225476474-87563907a212?auto=format&amp;fit=crop&amp;w=256&amp;h=256&amp;q=80"
+    },
+    {
+        "id": 103,
+        "name": "UltraWide Monitor Mount",
+        "sku": "ACC-MNT-UW",
+        "category": "Accessories",
+        "price": 129,
+        "cost": 60,
+        "stock": 8,
+        "sold": 45,
+        "returned": 0,
+        "status": "Draft",
+        "image": ""
+    }
+]
